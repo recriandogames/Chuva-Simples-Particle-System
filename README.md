@@ -1,7 +1,7 @@
 
 # Chuva 3D simples utilizando Particle System
 
-![ezgif-4-01607db735](https://user-images.githubusercontent.com/68354176/158624153-746fd4a0-c2f8-47d8-aa11-62a1f90d507b.gif)
+![ezgif-2-70e226272b](https://user-images.githubusercontent.com/68354176/159055927-a1d10fab-5ff4-4abb-affa-46181968c86a.gif)
 
 ## Meus cursos na Udemy - Cupons de desconto no link abaixo:
 * https://wlo.link/@recriandogames
